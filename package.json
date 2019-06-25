@@ -1,0 +1,10 @@
+{
+	"name": "Basic Mod",
+	"version": "1.0.0",
+	"description": "I am a basic mod",
+	"module": false,
+	"preload": "preload.js",
+	"postload": "postload.js",
+	"ccmodDependencies": {
+	}
+}
