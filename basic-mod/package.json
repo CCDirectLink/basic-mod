@@ -5,6 +5,7 @@
 	"module": false,
 	"preload": "preload.js",
 	"postload": "postload.js",
+	"prestart": "prestart.js",
 	"ccmodDependencies": {
 	}
 }
