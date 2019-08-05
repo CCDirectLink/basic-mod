@@ -1,7 +1,8 @@
 {
 	"name": "Basic Mod",
 	"version": "1.0.0",
-	"description": "I am a basic mod",
+	"description": "I am a basic mod. ",
+	"plugin": "plugin.js",
 	"module": false,
 	"preload": "preload.js",
 	"postload": "postload.js",
