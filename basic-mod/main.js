@@ -1,6 +1,5 @@
-export default class BasicMod extends Plugin {
+export default class BasicMod {
 	constructor(mod) {
-		super(mod);
 		this.mod = mod;
 	}
 
@@ -14,5 +13,9 @@ export default class BasicMod extends Plugin {
 
 	async prestart() {
 
+	}
+
+	async poststart() {
+		
 	}
 }

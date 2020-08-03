@@ -1,0 +1,29 @@
+{
+	"id": "basic-mod",
+	"version": "1.0.0",
+	"title": {
+		"en_US": "Basic Mod",
+		"de_DE": "Basic Mod",
+		"fr_FR": "Basic Mod",
+		"zh_CN": "Basic Mod",
+		"zh_TW": "Basic Mod",
+		"ja_JP": "Basic Mod",
+		"ko_KR": "Basic Mod"
+	},
+	"description": {
+		"en_US": "I am a basic mod. ",
+		"de_DE": "I am a basic mod. ",
+		"fr_FR": "I am a basic mod. ",
+		"zh_CN": "I am a basic mod. ",
+		"zh_TW": "I am a basic mod. ",
+		"ja_JP": "I am a basic mod. ",
+		"ko_KR": "I am a basic mod. "
+	},
+	"main": "main.js",
+	"preload": "preload.js",
+	"postload": "postload.js",
+	"prestart": "prestart.js",
+	"poststart": "poststart.js",
+	"dependencies": {
+	}
+}
